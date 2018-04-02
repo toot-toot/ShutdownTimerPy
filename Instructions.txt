@@ -1,0 +1,8 @@
+**********SHUTDOWN TIMER.PY**********
+     Enter a number UP TO FOUR DIGITS in the prompt box.
+     Press 'Shutdown'
+     DO NOT add to 'STARTUP PROGRAMS' list
+**********SHUTDOWN ABORTER.PY**********
+     Enter 'yes' to abort shutdown created by SHUTDOWN TIMER.PY
+     Press 'Abort Shutdown'
+   
