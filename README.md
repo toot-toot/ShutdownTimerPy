@@ -1,2 +1,2 @@
 # ShutdownTimerPy
-A repo for my ShutdownTimer project with Python
+Please read instructions before use on any system.
