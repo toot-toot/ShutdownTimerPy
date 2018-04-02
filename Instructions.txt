@@ -1,3 +1,4 @@
+INSTALL PYTHON AND TKINTER BEFORE USE!!!!!
 **********SHUTDOWN TIMER.PY**********
      Enter a number UP TO FOUR DIGITS in the prompt box.
      Press 'Shutdown'
