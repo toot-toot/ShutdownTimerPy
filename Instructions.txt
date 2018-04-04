@@ -6,4 +6,8 @@ INSTALL PYTHON AND TKINTER BEFORE USE!!!!!
 **********SHUTDOWN ABORTER.PY**********
      Enter 'yes' to abort shutdown created by SHUTDOWN TIMER.PY
      Press 'Abort Shutdown'
+**********RAW SHUTDOWN TIMER.PY**********
+     read SHUTDOWN TIMER.PY
+**********ABORTER.PY**********
+     Just run it!
    
