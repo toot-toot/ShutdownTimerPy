@@ -8,6 +8,7 @@ INSTALL PYTHON AND TKINTER BEFORE USE!!!!!
      Press 'Abort Shutdown'
 **********RAW SHUTDOWN TIMER.PY**********
      read SHUTDOWN TIMER.PY
-**********ABORTER.PY**********
+**********RAW ABORTER.PY**********
      Just run it!
-   
+
+Take note that this program accesses the command line on a user-based level.
